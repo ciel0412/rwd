@@ -1,0 +1,597 @@
+/*適用於電腦螢幕*/
+    body{
+        margin:0px;
+    }
+    .people{
+     width:1200px;
+     height:650px;
+     float: right;
+     
+     }
+
+    .section{
+    background-color:#88a5b7 ;
+    width:500px;
+    height:650px;
+    }
+    article{
+    color:#FFFFFF;
+    list-style: none; 
+    margin:0px;
+    padding: 2px;
+    text-align:center;
+    }
+    article h4{
+        color: black;
+        text-align: initial;
+    }
+    article p{
+    line-height: 50px;
+   }  
+   .section-1{
+    background-color: #39647c;
+    width:1520px;
+    height:80px;
+    position: absolute;
+    top:650px;
+   }
+   h2{
+    word-spacing:200px;
+   text-align: center;
+   }
+  .section-2{
+   text-align: center;
+   position: relative;
+   top:80px;
+   font-size: 20px;
+ 
+   
+   }
+  .winter {
+    width:300px;
+    height:350px;
+   position: relative;
+   left:150px;
+   top:150px;
+   }
+   .winter-2 {
+    width:300px;
+    height:350px;
+   position: relative;
+   top:150px;
+   left:150px;
+   }
+   .winter-3 {
+    width:300px;
+    height:350px;
+   position: relative;
+   left:150px;
+   top:150px ;
+
+   }
+   .winter-4 {
+    width:300px;
+    height:350px;
+   position: relative;
+   left:150px;
+   top:150px;
+   }
+  
+  .ll{
+    background-color: black;
+    width:1350px;
+    height:1px;
+    position: relative;
+    top:200px;
+    left:70px;
+   }
+  .winter-5{
+    width:1350px;
+    height:300px;
+    position: relative;
+    top:250px;
+    left:70px;
+   } 
+  .winter-6{
+    width:400px;
+    height:300px;
+    position: relative;
+    top:255px;
+    left:70px;
+  }
+  .winter-7{
+    width:400px;
+    height:300px;
+    position: relative;
+    top:255px;
+    left:70px;
+  }
+  .winter-8{
+    width:300px;
+    height:150px;
+    position: relative;
+    top:290px;
+    left:180px;
+  }
+  .information-3{
+    position: absolute;
+    top:1610px;
+    left:900px;
+    font-size: 25px;
+    font-style: initial;
+    font-weight: bold;
+  }
+  .information-4{
+    position: absolute;
+    top:1660px;
+    left:900px;
+  }
+  .information-5{
+    position: absolute;
+    top:1690px;
+    left:900px;
+    font-size: 20px;
+    font-weight: bold;
+  
+  }
+  .information-6{
+    position: absolute;
+    top:1750px;
+    left:900px;
+    font-size: 20px;
+    font-weight: bold;
+    
+  }
+  
+  .section-3{
+    background-color: #39647c;
+    width:1520px;
+    height:200px;
+    position: relative;
+    top:300px;
+  
+  }
+  .aboutus{
+    width:250px;
+    height:35px;
+    position: absolute;
+    top:1955px;
+    left:150px;
+    color:#FFFFFF;
+  }
+  .help{
+    width:250px;
+    height:35px;
+    position:absolute;
+    top:1955px;
+    left:500px;
+    color:#FFFFFF;
+  }
+  .contactus{
+    width:250px;
+    height:35px;
+    position: absolute; 
+    top:1955px;
+    left:750px;
+    color:#FFFFFF;
+ }
+  .followus{
+    width: 250px;
+    height:35px;
+    position: absolute;
+    top:1955px;
+    left:1150px;
+    color:#FFFFFF;
+ }
+  .twitter{
+    width:45px;
+    height:45px;
+    position: relative;
+    top:150px;
+    left:1150px;
+ }
+ .facebook{
+    width:50px;
+    height:50px;
+    position: relative;
+    top:150px;
+    left:1155px;
+ }
+@media(max-width:768px){
+  body{
+    margin:0px;
+  }
+  .people{
+    width:600px;
+    height:500px;
+    position: relative;
+    left:15px;
+ 
+  }
+
+  .section{
+   background-color:#88a5b7 ;
+   width:178px;
+   height:500px;
+  }
+  article{
+   color:#FFFFFF;
+   list-style: none; 
+   margin:0px;
+   line-height:3% ;
+   text-align:center;
+   position: relative;
+   top:1px; 
+   font-size:13px ;
+  }
+   article h4{
+    color: black;
+
+  }
+  article p{
+   font-style: normal;
+  }  
+  .section-1{
+   background-color: #39647c;
+   width:768px;
+   height:50px;
+   position: absolute;
+   top:500px;
+  }
+ h2{
+  word-spacing:80px;
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  left:60px
+  }
+ .section-2{
+  text-align: center;
+  position: relative;
+  top:40px;
+  font-style: italic;
+  font-size:15px ;
+ }
+.winter {
+  width:350px;
+  height:450px;
+  position: relative;
+  left:20px;
+  top:45px;
+ }
+ .winter-2 {
+  width:350px;
+  height:450px;
+  position: relative;
+  top:45px;
+  left:20px;
+ }
+ .winter-3 {
+  width:350px;
+  height:450px;
+  position: relative;
+  left:20px;
+  top:55px ;
+
+ }
+ .winter-4 {
+ width:350px;
+ height:450px;
+ position: relative;
+ left:20px;
+ top:55px;
+ }
+
+ .ll{
+ background-color: black;
+ width:768px;
+ height:1px;
+ position: relative;
+ top:80px;
+ left:5px;
+ }
+ .winter-5{
+ width:768px;
+ height:200px;
+ position: relative;
+ top:100px;
+ left:10px;
+ } 
+ .winter-6{
+ width:330px;
+ height:250px;
+ position: relative;
+ top:150px;
+ left:50px;
+ }
+ .winter-7{
+ width:330px;
+ height:250px;
+ position: relative;
+ top:150px;
+ left:50px;
+ }
+ .winter-8{
+ width:250px;
+ height:150px;
+ position: absolute;
+ top:1350px;
+ left:500px;
+ }
+ .information-3{
+ position: absolute;
+ top:1760px;
+ left:310px;
+ font-size: 25px;
+ font-weight: bold;
+ } 
+ .information-4{
+   display: none;
+ }
+ .information-5{
+position: absolute;
+top:2058px;
+left:70px;
+font-size: 18px;
+ }
+ .information-6{
+   position: absolute;
+   top:2058px;
+   left:420px;
+   font-size:18px ;
+ }
+ .section-3{
+ background-color: #39647c;
+ width:768px;
+ height:300px;
+ position: relative;
+ top:230px;
+
+ } 
+ .aboutus{
+ position: absolute;
+ top:2200px;
+ left:150px;
+ color:#FFFFFF;
+ font-size: 13px;
+ line-height: 3px;
+ }
+ .help{
+ position:absolute;
+ top:2300px;
+ left:150px;
+ color:#FFFFFF;
+ font-size: 13px;
+ line-height:5px ;
+ }
+ .contactus{
+ position: absolute; 
+ top:2200px;
+ left:400px;
+ color:#FFFFFF;
+ font-size:13px;
+ line-height: 5px;
+ }
+ .followus{
+ position: absolute;
+ top:2280px;
+ left:400px;
+ color:#FFFFFF;
+ font-size: 13px;
+ }
+ .twitter{
+ width:45px;
+ height:45px;
+ position: relative;
+ top:110px;
+ left:385px;
+ }
+ .facebook{
+ width:50px;
+ height:50px;
+ position: relative;
+ top:110px;
+ left:385px;
+ }
+    
+}
+@media(max-width:568px){
+  body{
+    margin:0px;
+  }
+  .people{
+    width:400px;
+    height:300px;
+    position: relative;
+    left:15px;
+ 
+  }
+  .section{
+   background-color:#88a5b7 ;
+   width:268px;
+   height:300px;
+  }
+  article{
+   color:#FFFFFF;
+   list-style: none; 
+   margin:0px;
+   line-height:3% ;
+   text-align:center;
+   position: relative;
+   top:1px; 
+   font-size:5px ;
+  }
+   article h4{
+    color: black;
+    font-size:3px ;
+
+  }
+  article p{
+   font-style: normal;
+  }  
+  .section-1{
+   background-color: #39647c;
+   width:568px;
+   height:60px;
+   position: absolute;
+   top:300px;
+  }
+ h2{
+  word-spacing:50px;
+  text-align: center;
+  font-size: 15px;
+  position: absolute;
+  left:50px
+  }
+ .section-2{
+  text-align: center;
+  position: relative;
+  top:43px;
+  font-style: initial;
+  font-size:13px ;
+ }
+.winter {
+  width:250px;
+  height:350px;
+  position: relative;
+  left:10px;
+  top:45px;
+ }
+ .winter-2 {
+  width:250px;
+  height:350px;
+  position: absolute;
+  top:395px;
+  left:260px;
+ }
+ .winter-3 {
+  width:250px;
+  height:350px;
+  position: absolute;
+  left:10px;
+  top:750px ;
+
+ }
+ .winter-4 {
+ width:250px;
+ height:350px;
+ position: absolute;
+ left:260px;
+ top:750px;
+ }
+
+ .ll{
+ background-color: black;
+ width:568px;
+ height:1px;
+ position: relative;
+ top:450px;
+ left:5px;
+ }
+ .winter-5{
+ width:568px;
+ height:200px;
+ position: relative;
+ top:510px;
+ left:10px;
+ } 
+ .winter-6{
+ width:300px;
+ height:230px;
+ position: relative;
+ top:540px;
+ left:10px;
+ }
+ .winter-7{
+ width:300px;
+ height:230px;
+ position: relative;
+ top:545px;
+ left:180px;
+ }
+ .winter-8{
+ width:150px;
+ height:80px;
+ position: absolute;
+ top:1210px;
+ left:350px;
+ }
+ .information-3{
+ position: absolute;
+ top:1295px;
+ left:180px;
+ font-size: 22px;
+ font-weight: bold;
+ } 
+ .information-4{
+   display: none;
+ }
+ .information-5{
+position: absolute;
+top:1450px;
+left:300px;
+font-size: 11px;
+font-weight: bold;
+ }
+ .information-6{
+   position: absolute;
+   top:1730px;
+   left:10px;
+   font-size:11px ;
+   font-weight: bold;
+ }
+ .section-3{
+ background-color: #39647c;
+ width:568px;
+ height:300px;
+ position: relative;
+ top:600px;
+
+ } 
+ .aboutus{
+ position: absolute;
+ top:2030px;
+ left:30px;
+ color:#FFFFFF;
+ font-size: 13px;
+ line-height: 3px;
+ }
+ .help{
+ position:absolute;
+ top:2150px;
+ left:30px;
+ color:#FFFFFF;
+ font-size: 13px;
+ line-height:5px ;
+ }
+ .contactus{
+ position: absolute; 
+ top:2020px;
+ left:300px;
+ color:#FFFFFF;
+ font-size:13px;
+ line-height: 5px;
+ }
+ .followus{
+ position: absolute;
+ top:2110px;
+ left:300px;
+ color:#FFFFFF;
+ font-size: 13px;
+ }
+ .twitter{
+ width:28px;
+ height:28px;
+ position: relative;
+ top:480px;
+ left:305px;
+ }
+ .facebook{
+ width:35px;
+ height:35px;
+ position: relative;
+ top:485px;
+ left:305px;
+ }
+
+}
